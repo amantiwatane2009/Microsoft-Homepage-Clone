@@ -91,10 +91,10 @@ ul
     border-radius: 10px;
     font-weight: bold;
     padding: 10px 20px;
-    background-color: #262626;
     color: white;
     font-size: 15px;
     margin-top: 20px;
+    background-color: #262626;
 }
 
 .btn:hover
